@@ -11,7 +11,7 @@
 
 ## 🌑 The Network
 
-**ETERNQIO** is a sovereign collective of digital artisans, privacy advocates, and security researchers united in the eternal quest for digital sovereignty. We are the guardians of the unseen, the architects of secure tomorrows, and the eternal resistance against surveillance capitalism.
+**ETERNIQO** is a sovereign collective of digital artisans, privacy advocates, and security researchers united in the eternal quest for digital sovereignty. We are the guardians of the unseen, the architects of secure tomorrows, and the eternal resistance against surveillance capitalism.
 
 > "In a world of glass houses, we build fortresses of encrypted stone."
 
@@ -94,7 +94,7 @@ To all the privacy warriors, security researchers, and digital freedom fighters 
 
 **"Privacy is the foundation of freedom. Security is the armor of the soul."**
 
-*ETERNQIO - Where privacy meets power.*
+*ETERNIQO - Where privacy meets power.*
 
 ---
 
